@@ -7,13 +7,14 @@
 ![setSkill](https://github.com/lucaslopezdev/lucaslopezdev/assets/109316111/a5b98e79-eac4-4be6-88e5-568768d4a7aa)
 
 <h3>👨‍💻 Lucas' Coding Journey</h3>
-🎓 Soy un graduado del bootcamp de <b>Henry</b>, donde pude cimentar mi conocimiento en una diversidad de tecnologías. En la última etapa del bootcamp estuve desarrollando una emocionante aplicación web para la reconocida empresa argentina llamada Bookbuster, como parte de mi pasantía, donde construí junto a mi equipo un MVP sólido que impulsó la funcionalidad detrás de la aplicación web 🛠️
+🎓 Me gradué exitosamente del bootcamp de <b>Henry</b>, donde pude afianzar mis conocimientos en una variedad de tecnologías. Durante la fase final de este programa, participé en la emocionante tarea de desarrollar una aplicación web para la reconocida empresa argentina llamada Bookbuster, como parte de <b>mi experiencia de pasantía</b>. En colaboración con mi equipo, logramos construir un MVP sólido que potenció significativamente la funcionalidad subyacente de la aplicación web 🛠️
 <br />
 <br />
-Previo a ingresar al bootcamp, estudié un año de manera autónoma. Sin embargo, decidí cambiar de estrategia para fortalecer mi conocimiento en programación de forma práctica e intensiva. 💯
+Antes de unirme al bootcamp, dediqué un año al estudio autodidacta. Sin embargo, opté por cambiar mi enfoque para reforzar mis habilidades en programación de manera práctica e intensiva. 💯
 
 <h3>🎯 Where I am currently focused</h3>
-🔭 Actualmente me encuentro ofreciendo mis servicos como Desarrollador Full Stack y profundizando mis conocimientos en el area del Front-End sumergiendome en tecnologías como TypeScript y Next.js ⚡
+
+🔭 En la actualidad, estoy desempeñando el rol de Desarrollador Full Stack, mientras continúo acentuando mis conocimientos en el área del Front-End. Mi enfoque se centra en sumergirme en tecnologías como TypeScript y Next.js ⚡ para consolidar aún más mis habilidades en este campo.
 <!--
 **lucaslopezdev/lucaslopezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
